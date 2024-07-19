@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69c5711ffc2da63d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSAFY/Week_3/5_Fri.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSAFY/Week_3/4_Thu.md",
+                "file": "SSAFY/Week_3/5_Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSAFY/Week_3/4_Thu.md",
+                "file": "SSAFY/Week_3/5_Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSAFY/Week_3/4_Thu.md"
+                "file": "SSAFY/Week_3/5_Fri.md"
               }
             }
           }
@@ -148,8 +161,9 @@
   },
   "active": "5bdab130b14a312e",
   "lastOpenFiles": [
-    "JAVA solo/JAVA_day01.md",
     "SSAFY/Week_3/4_Thu.md",
+    "SSAFY/Week_3/5_Fri.md",
+    "JAVA solo/JAVA_day01.md",
     "SSAFY/Week_3/Wed.md",
     "SSAFY/Week_3/3_Wed.md",
     "SSAFY/Week_3/2_Tue.md",
