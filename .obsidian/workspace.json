@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3989212f9242bf9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSAFY/Week_2/Week_2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b044ebced21d414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSAFY/Week_4/Mon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSAFY/Week_3/5_Fri.md",
+                "file": "SSAFY/Week_4/Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSAFY/Week_3/5_Fri.md",
+                "file": "SSAFY/Week_4/Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSAFY/Week_3/5_Fri.md"
+                "file": "SSAFY/Week_4/Mon.md"
               }
             }
           }
@@ -159,8 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bdab130b14a312e",
+  "active": "5b044ebced21d414",
   "lastOpenFiles": [
+    "SSAFY/Week_2/Week_2.md",
+    "SSAFY/Week_4/Mon.md",
+    "SSAFY/Week_2",
+    "SSAFY/Week_4",
     "SSAFY/Week_3/4_Thu.md",
     "SSAFY/Week_3/5_Fri.md",
     "JAVA solo/JAVA_day01.md",
@@ -170,7 +198,6 @@
     "SSAFY/Week_3/1_Mon.md",
     "SSAFY/Week_3/Tue.md",
     "README.md",
-    "Untitled",
     "JAVA solo",
     "Week_3/mon.md"
   ]
